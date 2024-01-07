@@ -1,0 +1,44 @@
+
+/*Home index.html*/
+
+.OdinRecipes {
+    font-size: 40px;
+}
+
+.Links {
+    font-size: 22px;
+}
+
+/* Other Pages */
+
+.RecipeHeader {
+    text-align: center;
+
+}
+
+
+.HeadingFour {
+   font-size: 22px;
+    
+}
+
+.third {
+    font-size: 22px;
+}
+
+#Items.Ingredients {
+    text-align: left;
+}
+
+.fourth {
+    font-size: 22px;
+}
+
+
+body {
+    background-color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 
+                 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: blanchedalmond;
+}
